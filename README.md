@@ -1,4 +1,4 @@
- # Reubus
+<img src = "logo.jpg">
 
 Reubus is simply an ML driven Crime Data analyser, Packed with powerful tools for post and pre crime data analysis.
  
